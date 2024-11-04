@@ -1,1 +1,1 @@
-print("balan")
+print('balan')
